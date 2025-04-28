@@ -1,4 +1,4 @@
-![img](img/ghbanner.png)
+![img](img/banner.png)
 
 
 <h1 align="center">Hi 👋, I'm M A A Z</h1>
